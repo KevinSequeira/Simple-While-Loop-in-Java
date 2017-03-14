@@ -3,9 +3,9 @@
 001) The 'while' loop is the most basic iteration statement in Java.
 002) Here's how a 'while' loop looks:
 
-while(condition) {
+while(condition){
 	//statements;
-}
+	}
 
 003) Here, the 'condition' within the parenthesis is an expression that provides
      a Boolean output. The statments within the loop will only be executed if
